@@ -12,7 +12,7 @@ Because it reduce the cost of new hirings. And to strive for employee satisfacti
 
 2 Goals: 
 - identify factors associated with attrition (EDA) 
-- identify which changes will actually reduce employee attraction while providing manageable business solutions. (causal inference)
+- identify which changes will actually reduce employee attraction while providing manageable business solutions. (Causal Inference)
 
 Final conlusions:
 “Conducted causal analysis (PSM) on HR data to estimate causal effects of key factors on employee attrition,
